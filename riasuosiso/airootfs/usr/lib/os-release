@@ -1,0 +1,8 @@
+NAME="Riasu"
+PRETTY_NAME="Riasu Linux"
+ID=ctlos
+ID_LIKE=riasulinux
+ANSI_COLOR="0;35"
+HOME_URL="https://riasuos.github.io"
+SUPPORT_URL="https://riasuos.github.io/contact"
+BUG_REPORT_URL="https://github.com/riasuos/riasuosiso/issues"
